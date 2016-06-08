@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14 
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandMines", "LandMines\LandMines.csproj", "{7B2E9569-0BBA-485A-97D4-27F93C854C69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandMines.Tests", "LandMines.Tests\LandMines.Tests.csproj", "{5C6DE2FC-326E-4766-ACFA-26B15B91F23D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B2E9569-0BBA-485A-97D4-27F93C854C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2E9569-0BBA-485A-97D4-27F93C854C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2E9569-0BBA-485A-97D4-27F93C854C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2E9569-0BBA-485A-97D4-27F93C854C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C6DE2FC-326E-4766-ACFA-26B15B91F23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6DE2FC-326E-4766-ACFA-26B15B91F23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6DE2FC-326E-4766-ACFA-26B15B91F23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6DE2FC-326E-4766-ACFA-26B15B91F23D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

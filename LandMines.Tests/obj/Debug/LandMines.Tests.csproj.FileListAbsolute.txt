@@ -1,0 +1,13 @@
+C:\Adam\CCM\First Data Bank\LandMines.Tests\bin\Debug\LandMines.Tests.dll
+C:\Adam\CCM\First Data Bank\LandMines.Tests\bin\Debug\LandMines.Tests.pdb
+C:\Adam\CCM\First Data Bank\LandMines.Tests\bin\Debug\LandMines.exe
+C:\Adam\CCM\First Data Bank\LandMines.Tests\bin\Debug\nunit.core.dll
+C:\Adam\CCM\First Data Bank\LandMines.Tests\bin\Debug\nunit.core.interfaces.dll
+C:\Adam\CCM\First Data Bank\LandMines.Tests\bin\Debug\nunit.framework.dll
+C:\Adam\CCM\First Data Bank\LandMines.Tests\bin\Debug\nunit.util.dll
+C:\Adam\CCM\First Data Bank\LandMines.Tests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\Adam\CCM\First Data Bank\LandMines.Tests\bin\Debug\LandMines.pdb
+C:\Adam\CCM\First Data Bank\LandMines.Tests\bin\Debug\nunit.framework.xml
+C:\Adam\CCM\First Data Bank\LandMines.Tests\obj\Debug\LandMines.Tests.csprojResolveAssemblyReference.cache
+C:\Adam\CCM\First Data Bank\LandMines.Tests\obj\Debug\LandMines.Tests.dll
+C:\Adam\CCM\First Data Bank\LandMines.Tests\obj\Debug\LandMines.Tests.pdb

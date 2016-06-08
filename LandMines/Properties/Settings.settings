@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LandMines.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GameBoardXAxisLength" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="GameBoardYAxisLength" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="PercentageOfSquaresToTurnInotMines" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="PlayerLives" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="PlayerXAxis" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="PlayerYAxis" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="PlayerMovesUpInput" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">U</Value>
+    </Setting>
+    <Setting Name="PlayerMovesDownInput" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D</Value>
+    </Setting>
+    <Setting Name="PlayerMovesRightInput" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">R</Value>
+    </Setting>
+    <Setting Name="PlayerMovesLeftInput" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">L</Value>
+    </Setting>
+    <Setting Name="InvalidMoveText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Please enter a valid move (U up, D down, L Left, R Right) - The move you just made was outside the board boundaries)</Value>
+    </Setting>
+    <Setting Name="StartupText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Welcome to Landmines! The aim of the game is to get from the bottom left hand corner of the game (board Y axis position 0 , X axis position 0) without hitting more than 2 Mines. Each time you hit a mine you will loose a life (you start with 2). Use the U,D,L,R keys to move up, down, left or right respectively. When your Y axis position reaches 7 and you still have remaining lives  you will have won the game...  Hint: Move Up or Right for your starting move to stay within the boundaries of the board. GOOD LUCK! </Value>
+    </Setting>
+    <Setting Name="MineHitText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">  Boomb! you hit a mine!</Value>
+    </Setting>
+    <Setting Name="VictoriousText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> Congratulations you are VICTORIOUS!</Value>
+    </Setting>
+    <Setting Name="FailureText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">You lost too many lives GAME OVER!</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

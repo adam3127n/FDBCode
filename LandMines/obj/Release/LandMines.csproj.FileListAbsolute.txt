@@ -1,0 +1,12 @@
+C:\Adam\CCM\First Data Bank\LandMines\bin\Release\LandMines.exe.config
+C:\Adam\CCM\First Data Bank\LandMines\bin\Release\LandMines.exe
+C:\Adam\CCM\First Data Bank\LandMines\bin\Release\LandMines.pdb
+C:\Adam\CCM\First Data Bank\LandMines\obj\Release\LandMines.exe
+C:\Adam\CCM\First Data Bank\LandMines\obj\Release\LandMines.pdb
+C:\Adam\CCM\First Data Bank\LandMines\obj\Release\LandMines.csprojResolveAssemblyReference.cache
+C:\Adam\CCM\First Data Bank\Code\LandMines\bin\Release\LandMines.exe.config
+C:\Adam\CCM\First Data Bank\Code\LandMines\obj\Release\LandMines.exe
+C:\Adam\CCM\First Data Bank\Code\LandMines\obj\Release\LandMines.pdb
+C:\Adam\CCM\First Data Bank\Code\LandMines\bin\Release\LandMines.exe
+C:\Adam\CCM\First Data Bank\Code\LandMines\bin\Release\LandMines.pdb
+C:\Adam\CCM\First Data Bank\Code\LandMines\obj\Release\LandMines.csprojResolveAssemblyReference.cache
